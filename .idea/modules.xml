@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chatappfirebase.iml" filepath="$PROJECT_DIR$/chatappfirebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/chatappfirebase_android.iml" filepath="$PROJECT_DIR$/android/chatappfirebase_android.iml" />
+    </modules>
+  </component>
+</project>
